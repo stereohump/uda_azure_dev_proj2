@@ -20,7 +20,7 @@ jobs:
     - name: Set up Python version
       uses: actions/setup-python@v1
       with:
-        python-version: '3.8'
+        python-version: '3.7'
 
     - name: Create and start virtual environment
       run: |
@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'cmswebapp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d4020401a4824f929b7b156d3702ef81 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_03b3e9bebcb142909b939ad64bf960bf }}
