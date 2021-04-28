@@ -78,6 +78,14 @@ https://stackoverflow.com/questions/56199111/visual-studio-code-cmd-error-cannot
 ERROR: Could not build wheels for cryptography which use PEP 517 and cannot be installed directly:
 https://stackoverflow.com/questions/59441794/error-could-not-build-wheels-for-cryptography-which-use-pep-517-and-cannot-be-i
 
+https://github.com/goody-h/udacity-article-cms
+
+https://www.youtube.com/watch?v=AdqPRE2QLxk
+
+https://docs.google.com/document/u/1/d/e/2PACX-1vQnhhickk-7ALzRyr2K832kURO-TUm90rAK4RF3rdHNayoBcbNiQNqrzY75QFsmIwD1yJILI_WiwJpe/pub
+
+https://www.notion.so/f7fc0b7255c24ebfac4b341a444d71fc?v=10a9b7b35e284a9dba3fe61d03881b01
+
 was also necessary to install manually:
 pip install pyopenssl
 other ones I might have needed or not: 
